@@ -1,1 +1,1 @@
-https://prakashbhaskaran.github.io/sampleLandingpage/
+https://prakashbhaskaran.github.io/landingpage/
